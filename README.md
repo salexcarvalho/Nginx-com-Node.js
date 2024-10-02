@@ -1,1 +1,1 @@
-Para aceesar via docker hub: docker pull salexcarvalho/nginxnodemysql
+Para acessar via docker hub: docker pull salexcarvalho/nginxnodemysql
